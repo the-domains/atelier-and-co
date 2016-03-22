@@ -1,0 +1,28 @@
+name: 'Atelier & Co.'
+favicon: null
+layout_spectrum: 0.3760515053290874
+typography_spectrum: 0.06522718700580299
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9491003272123635
+  lightness: 0.23107354482635856
+  saturation: 0.34219775977544487
+  rhythmicContrast: 0.8142417382914573
+purpose: []
