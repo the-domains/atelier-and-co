@@ -1,28 +1,39 @@
-name: 'Atelier & Co.'
 favicon: null
-layout_spectrum: 0.3760515053290874
-typography_spectrum: 0.06522718700580299
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: 'Atelier & Co.'
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9491003272123635
-  lightness: 0.23107354482635856
-  saturation: 0.34219775977544487
-  rhythmicContrast: 0.8142417382914573
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3421977597754449
+  brandStrength: 1
+  lightness: 0.2310735448263586
+  brandColors:
+    - '#353945'
+    - '#FFFFFF'
+    - '#AD8964'
+    - '#8D9097'
+  rhythmicContrast: 0.8142417382914573
+typography_spectrum: 0.06522718700580299
+layout_spectrum: 0.2473118
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
